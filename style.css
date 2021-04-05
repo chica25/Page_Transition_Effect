@@ -5,9 +5,11 @@
 }
 body {
     font-family: 'Gill Sans';
+    overflow: hidden;
 }
 
-.page1, .page2 {
+.page1,
+.page2 {
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -29,7 +31,7 @@ a {
     background-color: rgb(107, 211, 196);
 }
 
-#page2 {
+.page2 {
     background-color: rgb(200, 122, 255);
 }
 
