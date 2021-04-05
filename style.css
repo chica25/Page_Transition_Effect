@@ -1,4 +1,4 @@
-html {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -29,7 +29,7 @@ a {
     background-color: rgb(107, 211, 196);
 }
 
-.page2 {
+#page2 {
     background-color: rgb(200, 122, 255);
 }
 
